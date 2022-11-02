@@ -5,12 +5,6 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ronald0Freire&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
-  
-<a href="https://github.com/Ronald0Freire">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ronald0Freire&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ronald0Freire&layout=compact&langs_count=7&theme=tokyonight"/>
-</div>
-<br>
 <div  align="center"> 
   <div style="display: inline_block"><br>
   <h3>Ferramentas & Tecnologias</h3>
