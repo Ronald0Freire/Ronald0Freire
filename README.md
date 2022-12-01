@@ -3,14 +3,11 @@
 
 # ---> Heeeeeeeey guys! <img src="https://media.giphy.com/media/f9jQLaKJJl6dL0AmmZ/giphy.gif" width="25" img style="margin-bottom: 40px;">
 
-Mergulhe em Tecnologia!
-Você vai estudar, praticar, discutir e se aprofundar em uma plataforma que respira tecnologia.
-Mergulhe em Tecnologia!
-Você vai estudar, praticar, discutir e se aprofundar em uma plataforma que respira tecnologia.
-Mergulhe em Tecnologia!
-Você vai estudar, praticar, discutir e se aprofundar em uma plataforma que respira tecnologia.
-Mergulhe em Tecnologia!
-Você vai estudar, praticar, discutir e se aprofundar em uma plataforma que respira tecnologia.
+### 🌈 Boas vindas ao meu perfil! 🌈 
+- 👩‍💻 Formada como Desenvolvedora Java Jr - Generation Brasil 
+- 🧡 Desenvolvedora Front-end no Itaú Unibanco
+- 🦄 Uma sonhadora que está em busca de alguma fórmula mágica para mesclar duas áreas distintas como Comunicação e Tecnologia...
+
 
 
 <div align="center" "margin-top: 40px ;">
