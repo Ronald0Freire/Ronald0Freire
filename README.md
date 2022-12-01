@@ -3,10 +3,10 @@
 
 # ---> Heeeeeeeey guys! <img src="https://media.giphy.com/media/f9jQLaKJJl6dL0AmmZ/giphy.gif" width="25" img style="margin-bottom: 40px;">
 
-### 🌈 Boas vindas ao meu perfil! 🌈 
-- 👩‍💻 Formada como Desenvolvedora Java Jr - Generation Brasil 
-- 🧡 Desenvolvedora Front-end no Itaú Unibanco
-- 🦄 Uma sonhadora que está em busca de alguma fórmula mágica para mesclar duas áreas distintas como Comunicação e Tecnologia...
+### Bem vindo ao meu perfil
+- 👨‍💻 Formada como Desenvolvedora Javascript Jr - Generation Brasil 
+- 💻 Tendo experiências com computadores e eletrônica desde meu ensino médio, obtive formação como técnico em elêtronica, área essa que atuei por cerca de 4 anos.
+- 🧐 Atualmente me encontro em processo de mudança de carreira, visando me tornar um desenvolvedor de softwares.
 
 
 
