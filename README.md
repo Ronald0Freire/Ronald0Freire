@@ -4,6 +4,8 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ronald0Freire&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ronald0Freire&layout=compact&langs_count=7&theme=dracula"/>
 </div>
+  
+  # Tools and GitHub Stats <img src="https://media.giphy.com/media/fvT2uzkzsSWmmkvl5g/giphy.gif" width="35">
 
 <div  align="center"> 
   <div style="display: inline_block"><br>
