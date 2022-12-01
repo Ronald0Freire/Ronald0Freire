@@ -2,6 +2,13 @@
 <img style="margin-top: 40px ;" align="right" width="400" src="https://media.giphy.com/media/8l0jD8xJYFk3HD3bMW/giphy.gif">
 
 # ---> Heeeeeeeey guys! <img src="https://media.giphy.com/media/f9jQLaKJJl6dL0AmmZ/giphy.gif" width="25" img style="margin-bottom: 40px;">
+
+Mergulhe em Tecnologia!
+Você vai estudar, praticar, discutir e se aprofundar em uma plataforma que respira tecnologia.
+Mergulhe em Tecnologia!
+Você vai estudar, praticar, discutir e se aprofundar em uma plataforma que respira tecnologia.
+
+
 <div align="center" "margin-top: 40px ;">
   <a href="https://github.com/Ronald0Freire">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ronald0Freire&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
