@@ -8,11 +8,10 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ronald0Freire&layout=compact&langs_count=7&theme=dracula"/>
 </div>
   
-  # Tools and GitHub Stats <img src="https://media.giphy.com/media/fvT2uzkzsSWmmkvl5g/giphy.gif" width="35">
 
 <div  align="center"> 
   <div style="display: inline_block"><br>
-  <h3>Ferramentas & Tecnologias</h3>
+  <h3>Ferramentas & Tecnologias</h3> <img src="https://media.giphy.com/media/fvT2uzkzsSWmmkvl5g/giphy.gif" width="25">
   <img align="center" alt="JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
